@@ -1,2 +1,2 @@
-# platzi_course_docker
+# Docker Praxis 💚
 Recursos del curso del proyecto docker de Platzi.
